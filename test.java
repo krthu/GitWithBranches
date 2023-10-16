@@ -23,5 +23,9 @@ public class test {
 
     }
 
+    public void addedLocaly(){
+        // It does something sweet.
+
+    }
 }
     
