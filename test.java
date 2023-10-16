@@ -19,22 +19,29 @@ public class test {
     }
     // Som more functions
 
-    public void addingAnotherFunctionInABranch(){
-        // It does something sweet.
-
-    }
-    public void addingAnotherFunctionInABranch2(){
-        // It does something sweet.
-
-    }
-    public void addingAnotherFunctionInABranch4(){
+    public void addingAnotherFunctionInABranch() {
         // It does something sweet.
 
     }
 
-    public void addedLocaly(){
+    public void addingAnotherFunctionInABranch2() {
         // It does something sweet.
 
     }
+
+    public void addingAnotherFunctionInABranch4() {
+        // It does something sweet.
+
+    }
+
+    public void addedLocaly() {
+        // It does something sweet.
+
+    }
+
+    public void addedThroughGitHub() {
+        // Weehow
+
+    }
+
 }
-    
