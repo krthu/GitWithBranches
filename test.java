@@ -20,6 +20,7 @@ public class test {
 
     public void addingAnotherFunctionInABranch(){
         // It does something sweet.
+
     }
 
 }
