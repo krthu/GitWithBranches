@@ -17,8 +17,17 @@ public class test {
         // Det här är en funktion som gör något annat
 
     }
+    // Som more functions
 
     public void addingAnotherFunctionInABranch(){
+        // It does something sweet.
+
+    }
+    public void addingAnotherFunctionInABranch2(){
+        // It does something sweet.
+
+    }
+    public void addingAnotherFunctionInABranch4(){
         // It does something sweet.
 
     }
