@@ -32,5 +32,8 @@ public class test {
 
     }
 
+    public void addedThroughGitHub(){
+        // Weehow
+
 }
     
